@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @FacuGrab00
-- 👀 I’m interested in learn
-- 🌱 I’m currently learning C#, sql, and MVC
-- 📫 How to reach me "Facu Grab" on instagram
+👋 Hi, I'm @FacuGrab00.
+👀 I'm interested in constant learning.
+🌱 I specialize in programming with Laravel and Nuxt 3.
+💡 I'm keen on mastering Docker, Kubernetes, and Jenkins.
+📫 You can reach me as "Facu Grab" on Instagram.
 
 <!---
 FacuGrab00/FacuGrab00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
