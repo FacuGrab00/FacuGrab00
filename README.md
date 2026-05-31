@@ -40,10 +40,3 @@ I develop and maintain production web applications using **Vue, Nuxt, Laravel, P
 ### Currently Learning
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter)
-
----
-
-## 📫 Contact
-
-* LinkedIn: your-linkedin-url
-* Email: [facugrab00@gmail.com](mailto:facugrab00@gmail.com)
